@@ -1,2 +1,4 @@
-# monroney-plugin
-Icon and config template for the Monroney Mobile App
+Monroney Plugin
+======
+
+A Cordova plugin on iOS and Android.

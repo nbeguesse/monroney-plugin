@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
+    id="monroney-plugin"
+    version="1.0.0">
+    <name>Monroney Plugin</name>
+
+    <!-- android -->
+    <platform name="android">
+      <source-file src="android/res/raw/scannerlicense.jet" target-dir="res/raw"/>
+    </platform>
+
+    <!-- ios -->
+    <platform name="ios">
+        <source-file src="ios/res/raw/scannerlicense.plist"/>
+    </platform>
+</plugin>
