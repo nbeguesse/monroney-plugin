@@ -8,6 +8,7 @@
     <!-- android -->
     <platform name="android">
       <source-file src="android/res/raw/scannerlicense.jet" target-dir="res/raw"/>
+      <source-file src="android/res/raw/qrvin-release-key.keystore" target-dir="/"/>
         <config-file target="res/xml/config.xml" parent="/*">
             <icon density="ldpi" src="www/res/icon/36.png" />
             <icon density="mdpi" src="www/res/icon/48.png" />
