@@ -16,6 +16,8 @@
             <icon density="xhdpi" src="www/res/icon/96.png" />
             <icon density="xxhdpi" src="www/res/icon/144.png" />
             <icon density="xxxhdpi" src="www/res/icon/192.png" />
+            <preference name="android-minSdkVersion" value="23"/>
+            <preference name="orientation" value="landscape" />
         </config-file>
     </platform>
 
